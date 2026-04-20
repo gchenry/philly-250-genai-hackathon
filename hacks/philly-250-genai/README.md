@@ -1,0 +1,74 @@
+# Philly 250: Founding Fathers in Modern Philly GenMedia gHack
+
+## Introduction
+
+Welcome to the **Philly 250 GenMedia gHack**! In this high-octane creative workshop, you are the creative director for a historic milestone: Philadelphia’s 250th Anniversary (the Semiquincentennial).
+
+Your mission is to produce a **30-to-60-second broadcast-quality commercial** answering the prompt: *"What would the Founding Fathers do in Modern Philly?"* This isn't just a hypothetical exercise—**Visit Philadelphia** is looking for the best AI-generated concepts to potentially inform their real-world 2026 tourism campaigns.
+
+---
+
+## Event Details & Logistics
+
+*   **Date:** May 5-6, 2026 (Philly Tech Week)
+*   **Location:** CIC Philadelphia, Delaware River Room
+*   **Team Size:** Maximum of 5 members per team
+*   **Support:** Google Cloud volunteer coaches will be on-site (5:1 ratio) to assist with technical strategy and prompt engineering.
+
+---
+
+## Technical Infrastructure
+
+This environment is built on **Google Cloud Skills Boost (Qwiklabs)**. You will be working in a "pre-warmed" environment, meaning you won’t need to worry about project setup or billing—everything is ready for high-fidelity output without watermarks.
+
+### The Tech Stack
+*   **Gemini:** Your lead strategist for scripting and logic-based prompt generation.
+*   **Imagen 3 (NanoBanana):** High-definition image generation for storyboards.
+*   **Veo (Pro Model):** State-of-the-art video generation.
+*   **Google Vids:** Your primary workspace for assembly and editing.
+*   **Audio Suite:** Chirp 3 HD (Music), Gemini TTS (Voiceovers), and Lyria (Soundscapes).
+
+---
+
+## The Challenges
+
+This gHack is structured into five distinct phases. Success depends on your ability to maintain narrative flow and visual consistency using the **Briefing Document: "Philly 250" GenMedia gHack** as your guide.
+
+### Challenge 1: From History to Narrative
+Establish your vision. Use **Gemini** to script a 3-scene narrative that places a Founding Father (e.g., Ben Franklin or George Washington) in a modern context—think grabbing a cheesesteak or navigating the SEPTA.
+
+### Challenge 2: The Visual Blueprint
+Move into **Vertex AI Studio** to generate your storyboards with **Nano Banana**. 
+> **Note:** You must create a "Contact Sheet" (character reference) to ensure your protagonist looks the same in every shot.
+
+### Challenge 3: From Stills to Motion
+This is where the magic happens. Use the **Veo Pro model**'s "Reference to Video" capability. Upload your storyboard stills and character contact sheets to generate high-fidelity, 8-second video clips that maintain visual continuity.
+
+### Challenge 4: The Assembly
+Bring your assets into **Google Vids**. Here, you will stitch your scenes together, manage transitions, and ensure the pacing matches a professional 30-60 second ad spot.
+
+### Challenge 5: Audio & Final Polish
+Give your commercial a voice. 
+*   Generate a tagline using **Gemini TTS**.
+*   Compose an original soundtrack with **Lyria** that reflects the spirit of 1776 meeting 2026.
+*   Export your final masterpiece for judging.
+
+---
+
+## Success Criteria
+
+To win the "Founding Father" favor, your project must:
+1.  **Meet the Duration:** A final export between 30 and 60 seconds.
+2.  **Maintain Consistency:** The protagonist must be recognizable across all scenes.
+3.  **Align with Branding:** Follow the **Visit Philly** brand guidelines provided in the briefing.
+4.  **Audio Integration:** Features at least one custom AI voiceover and a generated soundtrack.
+
+---
+
+## Contributors
+*   **Murat Eken**
+*   **Gino Filicetti**
+*   **Jeff Katzen**
+*   **Justin Grayston**
+*   **Len Henry**
+---
