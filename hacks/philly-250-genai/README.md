@@ -4,6 +4,8 @@
 
 Welcome to the **Philly 250 GenMedia gHack**\! In this high-octane creative workshop, you are the creative director for a historic milestone: Philadelphia’s 250th Anniversary (the Semiquincentennial).
 
+![Philly 250 Ads Overview](images/easy-ads-overview.png)
+
 Your mission is to produce a **30-to-60-second broadcast-quality commercial** answering the prompt: *"What would the Founding Fathers do in Modern Philly?"* This isn't just a hypothetical exercise—**Visit Philadelphia** is looking for the best AI-generated concepts to potentially inform their real-world 2026 tourism campaigns.
 
 -----
