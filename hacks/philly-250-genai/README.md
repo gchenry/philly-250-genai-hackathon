@@ -27,12 +27,11 @@ Your mission is to produce a **30-to-60-second broadcast-quality commercial** an
 
 ## Challenges - Table of Contents
 
-1.  [From History to Narrative](https://www.google.com/search?q=%23challenge-1-from-history-to-narrative)
-2.  [The Visual Blueprint](https://www.google.com/search?q=%23challenge-2-the-visual-blueprint)
-3.  [From Stills to Motion](https://www.google.com/search?q=%23challenge-3-from-stills-to-motion)
-4.  [The Assembly](https://www.google.com/search?q=%23challenge-4-the-assembly)
-5.  [Audio & Final Polish](https://www.google.com/search?q=%23challenge-5-audio--final-polish)
-
+1. [From History to Narrative](#challenge-1-from-history-to-narrative)
+2. [The Visual Blueprint](#challenge-2-the-visual-blueprint)
+3. [From Stills to Motion](#challenge-3-from-stills-to-motion)
+4. [The Assembly](#challenge-4-the-assembly)
+5. [Audio & Final Polish](#challenge-5-audio-final-polish)
 -----
 
 ## Challenge 1: From History to Narrative
