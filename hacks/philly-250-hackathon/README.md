@@ -1,4 +1,4 @@
-# "Philly 250" GenMedia gHack: Founder Fathers in Modern Philly
+# "Philly 250" GenMedia gHack: Founding Fathers in Modern Philly
 
 ## Introduction
 
@@ -14,7 +14,7 @@ This isn't about writing code. It's about mastering the art of the prompt. You w
 
 You will master the following Generative Media suite:
 *   **Gemini:** For scripting, planning, and prompt generation.
-*   **Imagen 3 (NanoBanana) via Vertex AI Studio:** For premier image and storyboard generation.
+*   **Imagen 3 (Gemini Flash Image aka Nano Banana) via Vertex AI Studio:** For premier image and storyboard generation.
 *   **Veo (Pro Model):** For high-definition image-to-video generation.
 *   **Google Vids:** The video assembly and editing engine.
 *   **Chirp 3 HD / Gemini TTS & Lyria:** For AI voiceovers and custom soundtrack generation.
