@@ -23,11 +23,11 @@ Your mission is to produce a **30-to-60-second broadcast-quality commercial** an
 
 ## Challenges - Table of Contents
 
-1.  [Challenge 1: From History to Narrative](challenge-01.md)
-2.  [Challenge 2: The Visual Blueprint](challenge-02.md)
-3.  [Challenge 3: From Stills to Motion](challenge-03.md)
-4.  [Challenge 4: The Assembly](challenge-04.md)
-5.  [Challenge 5: Audio & Final Polish](challenge-05.md)
+1.  [Challenge 1: From History to Narrative](challenge-01.html)
+2.  [Challenge 2: The Visual Blueprint](challenge-02.html)
+3.  [Challenge 3: From Stills to Motion](challenge-03.html)
+4.  [Challenge 4: The Assembly](challenge-04.html)
+5.  [Challenge 5: Audio & Final Polish](challenge-05.html)
 
 ## Success Criteria
 
