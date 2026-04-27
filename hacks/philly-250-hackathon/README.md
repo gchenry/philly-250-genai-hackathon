@@ -108,7 +108,7 @@ Finally, create a **tagline or call to action** that meets the brand guidelines 
 - Focus on your story and keep in mind that you have 30 seconds to tell that story.
 - Don't try to squeeze too many different things in a single scene.
 - Using Gemini is fair game, but make sure that you keep its output brief and clear.
-- Although Gemini will help with inspiration, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim (we've seen far too often an architect called Elara to be the protagonist).
+- Although Gemini will help with inspiration, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim.
 
 ## Challenge 2: The Visual Blueprint
 
@@ -133,8 +133,6 @@ We also need a **final closing frame** that will inform Veo on how to end the vi
 
 > [!NOTE]  
 > These storyboard images will be used in the next challenge and there are multiple ways to reference them. You can use them as start/end frames, you can use them as *Subject* reference. If you don't design your storyboard images with that idea or if you don't use them in the next challenge, you will struggle with the consistency.
-
-We also need a **final closing frame** that will inform Veo on how to end the video. It should include space for the Visit Philly / Philly 250 logo and space for your call to action.
 
 > [!IMPORTANT]  
 > The storyboard images must be in 16:9 format because we'll use them as references for the video clips we'll create in the next challenge
@@ -172,7 +170,7 @@ Using the *Veo* family of models in Vertex AI Studio, generate video clips for e
 
 > [!IMPORTANT]  
 > It's fine to have background sound or noises for some parts of your video, but keep in mind that you'll be generating voice-overs in a later challenge. Also, if you need to have dialog that syncs with lips on the screen, that needs to be done during video creation time.
-> Because Veo generation is currently capped at 8-second clips, you must use the "Reference to Video" function—uploading your generated contact sheets alongside text prompts to force the model to maintain character consistency across multiple short clips.
+> Because Veo generation is currently capped at 8-second clips, you must use the "Image to Video" function—uploading your generated contact sheets alongside text prompts to force the model to maintain character consistency across multiple short clips.
 
 Once finished, store your favorite clips for each scene in the storage bucket provided to you (ideally in a separate folder).
 
