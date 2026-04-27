@@ -1,4 +1,4 @@
-# Easy Ads: From Concept to Creation with GenMedia
+# "Philly 250" GenMedia gHack: Founder Fathers in Modern Philly
 
 ## Introduction
 
