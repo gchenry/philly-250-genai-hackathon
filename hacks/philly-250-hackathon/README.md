@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the "Philly 250" GenMedia gHack! In this challenge-based learning experience, you will work in teams of up to 5 people to build 30-to-60-second broadcast-quality commercials celebrating Philadelphia's 250th Anniversary (Semiquincentennial).  Your creative mission is to answer a simple premise: "What would the Founding Fathers do in Modern Philly?"
+Welcome to the "Philly 250" GenMedia gHack! In this challenge-based learning experience, you will work in teams of up to 5 people to build 30-to-60-second broadcast-quality commercials celebrating America's 250th Anniversary (Semiquincentennial) in Philadelphia.  Your creative mission is to answer a simple premise: "What would the Founding Fathers do in Modern Philly?"
 
 The ultimate goal of this hackathon is highly commercial. Visit Philadelphia intends to evaluate and potentially use the winning videos as actual ad copy for their 2026 tourism campaigns! You will use Google Cloud's generative AI tools to bring your vision to life, ensuring your final ad is coherent, consistent, and on-brand.
 
@@ -66,11 +66,11 @@ This hack will help you master the following skills:
 
 ### Introduction
 
-Every ad starts with a product and tells a story to sell that product. In this challenge, our "product" is the City of Philadelphia celebrating its 250th Anniversary. We will come up with brand guidelines for Visit Philly, design a story and a character, and make sure everything stays coherent.
+Every ad starts with a product and tells a story to sell that product. In this challenge, our "product" is the City of Philadelphia celebrating America's 250th Anniversary. We will come up with brand guidelines for Visit Philly, design a story and a character, and make sure everything stays coherent.
 
 #### The Product
 
-The "product" being advertised is the City of Philadelphia celebrating its 250th Anniversary, with the goal of promoting tourism for the 2026 Semiquincentennial.
+The "product" being advertised is the City of Philadelphia celebrating America's 250th Anniversary, with the goal of promoting tourism for the 2026 Semiquincentennial.
 
 > [!NOTE]  
 > This challenge is all about building our story and characters, we're expecting you to craft descriptions, which we'll use in the subsequent challenges to create prompts. So, your descriptions should be detailed enough to capture the essence of your story, but keep in mind that we're not designing prompts yet.

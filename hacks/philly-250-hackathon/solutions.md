@@ -36,7 +36,7 @@ If the participants are using Vertex AI Studio for generating their Visit Philly
 It is helpful to have generic system instructions when using Gemini to capture the purpose and subject:
 
 ```text
-We're creating an ad for Visit Philadelphia's 250th Anniversary. The premise is a historical Founding Father (e.g., Benjamin Franklin) interacting with modern Philadelphia. The tone should be engaging for global tourists.
+We're creating an ad for Visit Philadelphia's America's 250th Anniversary. The premise is a historical Founding Father (e.g., Benjamin Franklin) interacting with modern Philadelphia. The tone should be engaging for global tourists.
 ```
 
 We're expecting *at least* three scenes, but it makes sense to have more (and shorter) scenes. Veo will struggle if there's too much happening in a single scene. The snippet below is from *Veo Prompting Best Practices*:
